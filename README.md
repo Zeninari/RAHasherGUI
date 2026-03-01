@@ -1,5 +1,4 @@
 # ![RAHasherGUI](RA.ico) 
-RAHasherGUI
 
 ![Python](https://img.shields.io/badge/python-3.x-blue) ![License](https://img.shields.io/badge/license-MIT-green)  
 
