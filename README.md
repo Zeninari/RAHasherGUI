@@ -1,5 +1,5 @@
 # RAHasherGUI
-GUI for The Retro Achivements Hasher By LeXofLeviafan
+⚠️ Warning: This Is A GUI for The Retro Achivements Hasher By LeXofLeviafan ⚠️
 
 The Original App Is Stored Here: https://github.com/LeXofLeviafan/RAHasher/releases
 
