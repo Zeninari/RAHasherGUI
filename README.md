@@ -46,6 +46,8 @@ git clone https://github.com/yourusername/RAHasherGUI.git
 cd RAHasherGUI
 
 To compile a standalone executable with PyInstaller:
+pyinstaller RAHasherGUI.spec
+Or:
 pyinstaller --onefile --icon=RA.ico --add-data "RA.ico;." --add-binary "RAHasher.exe;." --noconsole "RAHasherGUI.py"
 ```
 
