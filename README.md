@@ -73,5 +73,5 @@ RAHasher is maintained separately by its original authors.
 
 ## Credits
 
-- RAHasher by [LeXofLeviafan](https://github.com/LeXofLeviafan/RAHasher)  
+- RAHasher by [LeXofLeviafan](https://github.com/LeXofLeviafan/)  
 - GUI Wrapper by Zeninari
