@@ -4,6 +4,8 @@
 
 ⚠️ **Warning:** RAHasherGUI is a **GUI wrapper for the RetroAchievements Hasher** created by [LeXofLeviafan](https://github.com/LeXofLeviafan/RAHasher). This GUI only provides a convenient interface for you to interact with. this isn't meant to entirely replace the tool, only make it easier to use.  
 
+**NOTE THIS ONLY WORKS WITH WINDOWS DUE TO USING WINDOWS FLAGS**
+
 ## Overview
 
 RAHasherGUI is a **lightweight Python GUI** that simplifies using RAHasher:
